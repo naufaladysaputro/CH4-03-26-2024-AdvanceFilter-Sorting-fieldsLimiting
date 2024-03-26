@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "6602d40d2810552cf4ef8f5e",
+    "name": "Underwood Mcclain",
+    "age": 37,
+    "email": "underwoodmcclain@geologix.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2018-04-22T05:55:37"
+  },
+  {
+    "_id": "6602d40dfcd988f4e0f449e3",
+    "name": "Stafford Nunez",
+    "age": 22,
+    "email": "staffordnunez@geologix.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2014-03-15T11:30:51"
+  },
+  {
+    "_id": "6602d40de4c37ce2ae01efb3",
+    "name": "Hartman Holmes",
+    "age": 33,
+    "email": "hartmanholmes@geologix.com",
+    "role": "admin",
+    "active": false,
+    "photo": "user-3.jpg",
+    "password": "",
+    "createdAt": "2023-06-29T08:12:28"
+  },
+  {
+    "_id": "6602d40d7c7d8d7eecf4d6d5",
+    "name": "Sophie Holland",
+    "age": 35,
+    "email": "sophieholland@geologix.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-2.jpg",
+    "password": "",
+    "createdAt": "2021-04-19T12:48:54"
+  },
+  {
+    "_id": "6602d40dce7c6dc770070c84",
+    "name": "Floyd Copeland",
+    "age": 22,
+    "email": "floydcopeland@geologix.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-4.jpg",
+    "password": "",
+    "createdAt": "2021-02-15T11:45:58"
+  },
+  {
+    "_id": "6602d40d66e7010779eea988",
+    "name": "Bradley Pittman",
+    "age": 37,
+    "email": "bradleypittman@geologix.com",
+    "role": "admin",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2018-03-30T03:57:06"
+  },
+  {
+    "_id": "6602d40d801c6b71858c35cd",
+    "name": "Alyson Mcdonald",
+    "age": 27,
+    "email": "alysonmcdonald@geologix.com",
+    "role": "user",
+    "active": false,
+    "photo": "user-5.jpg",
+    "password": "",
+    "createdAt": "2015-05-17T08:11:45"
+  }
+]
